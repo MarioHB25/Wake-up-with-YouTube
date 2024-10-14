@@ -16,7 +16,7 @@
 
 <p>How It Works?:</p>
 <ul>
-  <li>In the line containing the `ALARM_URL` variable, enter the URL of a YouTube video🎵</li>
+  <li>In the line containing the `URL` variable, enter the URL of a YouTube video🎵</li>
   <li>Run the program with your code editor🖋️</li>
   <li>Enter the hour and minutes in the input boxes⏰</li>
   <li>Click the "Set Alarm" button⏯️</li>
@@ -26,7 +26,7 @@
    preview 📸
 </h2>
 
-<img src="preview/Find the pairs.png" alt="Banner"/>
+<img src="preview/Youtube alarm clock.png" alt="Banner"/>
 
 <br><br><br>
 
